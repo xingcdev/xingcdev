@@ -19,28 +19,28 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=xingcdev&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&hide=prs,issues&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=xingcdev&theme=dark&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&hide=prs,issues"
     media="(prefers-color-scheme: dark)"
     height="150"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=xingcdev&hide_border=false&include_all_commits=false&count_private=true&show_icons=true&hide=prs,issues&theme=default"
+    srcset="https://github-readme-stats.vercel.app/api?username=xingcdev&theme=default&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&hide=prs,issues"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     height="150"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=xingcdev&hide_border=false&include_all_commits=false&count_private=true&show_icons=true&hide=prs,issues&theme=default" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xingcdev&theme=default&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&hide=prs,issues" height="150"/>
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xingcdev&hide_border=true&include_all_commits=false&count_private=true&layout=compact&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xingcdev&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"
     media="(prefers-color-scheme: dark)"
     height="150"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xingcdev&hide_border=false&include_all_commits=false&count_private=true&layout=compact&theme=default"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xingcdev&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     height="150"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xingcdev&hide_border=false&include_all_commits=false&count_private=true&layout=compact&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xingcdev&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="150"/>
 </picture>
