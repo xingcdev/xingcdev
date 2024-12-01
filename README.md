@@ -24,11 +24,11 @@
     height="150"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=xingcdev&theme=default&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&hide=prs,issues"
+    srcset="https://github-readme-stats.vercel.app/api?username=xingcdev&theme=default&hide_border=false&include_all_commits=false&count_private=true&show_icons=true&hide=prs,issues"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     height="150"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=xingcdev&theme=default&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&hide=prs,issues" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xingcdev&theme=default&hide_border=false&include_all_commits=false&count_private=true&show_icons=true&hide=prs,issues" height="150"/>
 </picture>
 
 <picture>
