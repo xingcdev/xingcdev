@@ -35,10 +35,12 @@
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xingcdev&hide_border=true&include_all_commits=false&count_private=true&layout=compact&theme=dark"
     media="(prefers-color-scheme: dark)"
+    height="150"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xingcdev&hide_border=false&include_all_commits=false&count_private=true&layout=compact&theme=default"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    height="150"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xingcdev&hide_border=false&include_all_commits=false&count_private=true&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xingcdev&hide_border=false&include_all_commits=false&count_private=true&layout=compact&theme=default" height="150"/>
 </picture>
