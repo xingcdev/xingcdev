@@ -1,4 +1,4 @@
-### Hi, I'm Xing!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=A2D2FF&center=true&vCenter=true&repeat=false&width=1000&height=250&lines=Hi%2C+I'm+Xing!+%F0%9F%91%8B;Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg)
 
 - 👨‍💻 Software Engineer specializing in JavaScript and Java.
 - 👨🏼‍🎓 Studied Computer Science at Efrei Paris.
