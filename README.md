@@ -14,6 +14,7 @@
 - [Muséifier](https://github.com/xingcdev/museifier-web) - Discover France museums near you and keep track of your visits.
 - [Legendary Bird](https://github.com/xingcdev/legendary-bird) - A Flappy Bird-like game but with the phoenix Pokémon Ho-Oh <img src="./images/ho-oh.gif" height="25"/>
 - [Simona Immobilier](https://github.com/antoinedespres/Simona-Immobilier) - Housing API based on the microservice architecture, using Spring Boot 2.7, Spring Cloud Gateway, Eureka, PostgreSQL.
+- [Deliveroo Invoices Downloader](https://github.com/xingcdev/deliveroo-invoices-downloader) - A script that downloads restaurant invoices from [Deliveroo Partner Hub](https://restaurant-hub.deliveroo.net/login).
 
 ### Stats
 
